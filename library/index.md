@@ -4,6 +4,7 @@
 
 ## 人物档案
 - [程千海](chengqianhai.html)
+- [陈冷云](chenlengyun.html)
 
 ## 场景档案
 
