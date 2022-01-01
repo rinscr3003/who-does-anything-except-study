@@ -13,7 +13,7 @@
     - **手机电话铃声** 钢琴乐声
 
 ## 人物生平
-「To be continued…」
+-
 
 ## 人物黑历史
 「To be continued…」
