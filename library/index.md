@@ -10,7 +10,7 @@
 - [于水文](yushuiwen.html)
 
 ## 场景档案
-- [新城二中](xinchengerzhohg.html)
+- [新城二中](xinchengerzhong.html)
 
 ## 组织档案
 
