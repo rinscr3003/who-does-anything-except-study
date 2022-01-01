@@ -5,6 +5,9 @@
 ## 人物档案
 - [程千海](chengqianhai.html)
 - [陈冷云](chenlengyun.html)
+- [SC815](sc815.html)
+- [郑天远](zhengtianyuan.html)
+- [于水文](yushuiwen.html)
 
 ## 场景档案
 
